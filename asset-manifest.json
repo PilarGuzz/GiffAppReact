@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GiffAppReact/static/css/main.d1ef03c4.css",
+    "main.js": "/GiffAppReact/static/js/main.0ad2cf22.js",
+    "index.html": "/GiffAppReact/index.html",
+    "main.d1ef03c4.css.map": "/GiffAppReact/static/css/main.d1ef03c4.css.map",
+    "main.0ad2cf22.js.map": "/GiffAppReact/static/js/main.0ad2cf22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1ef03c4.css",
+    "static/js/main.0ad2cf22.js"
+  ]
+}
